@@ -1,0 +1,8 @@
+{
+  // Statisk sida på Cloudflare Workers. Allt i ./public publiceras som det är.
+  "name": "lasfart",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
