@@ -1,9 +1,9 @@
 // Kontrollerar texter.md och ord.md innan deploy: node scripts/check-content.js
 const fs = require("fs");
 const path = require("path");
-const { parseTexter, parseOrd } = require("../public/content.js");
+const { parseTexter, parseOrd } = require("../content.js");
 
-const dir = path.join(__dirname, "..", "public");
+const dir = path.join(__dirname, "..");
 const LEVELS = ["liten", "mellan", "stor"];
 const errors = [];
 

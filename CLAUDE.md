@@ -6,21 +6,20 @@ Ett webbspel som tränar barn att läsa snabbare, med bibehållen förståelse. 
 
 - Ingen reklam, inga köp och ingen pay-to-win. Belöningarna (stjärnor, djurstegen, dagar i rad) får bara bygga på hur barnet faktiskt läser.
 - Inga konton och ingen server. Framsteg sparas i webbläsarens localStorage under nyckeln `lasfart-v1`.
-- Ingen byggprocess. Det som ligger i `public/` är exakt det som publiceras.
+- Ingen byggprocess. Filerna i roten publiceras exakt som de är.
 - Förståelsen styr farten. I Läsbanan får nästa text högre fart bara när barnet svarar rätt på frågorna.
 
 ## Struktur
 
 ```
-public/
-  index.html   spelet: HTML, CSS och JS i en fil
-  content.js   parsrar för texter.md och ord.md (delas med kontrollskriptet)
-  texter.md    alla texter och frågor till Läsbanan
-  ord.md       orden till Blixtordet och deras snarlika ord
+index.html   spelet: HTML, CSS och JS i en fil
+content.js   parsrar för texter.md och ord.md (delas med kontrollskriptet)
+texter.md    alla texter och frågor till Läsbanan
+ord.md       orden till Blixtordet och deras snarlika ord
+.nojekyll    gör att GitHub Pages serverar .md-filerna som de är
 scripts/
-  check-content.js   kontrollerar innehållsfilerna, körs före varje deploy
-wrangler.jsonc       Cloudflare Workers, publicerar public/ som statiska filer
-.github/workflows/deploy.yml   deploy vid push till main
+  check-content.js   kontrollerar innehållsfilerna
+.github/workflows/check.yml   kör kontrollskriptet vid push och pull request
 ```
 
 ## Spellägen
@@ -49,17 +48,13 @@ Kör `node scripts/check-content.js` efter varje ändring i innehållet.
 ## Köra lokalt
 
 ```
-npx wrangler dev
+npx serve .
 ```
 
-eller, utan Cloudflare:
+Kör kommandot i repots rot (eller valfri annan statisk server, t.ex. `python3 -m http.server`). Sidan måste köras via en server, eftersom den hämtar `texter.md` och `ord.md` med fetch. Att öppna `index.html` direkt som fil fungerar inte.
 
-```
-cd public && python3 -m http.server 8000
-```
+## Publicering
 
-Sidan måste köras via en server, eftersom den hämtar `texter.md` och `ord.md` med fetch. Att öppna `index.html` direkt som fil fungerar inte.
+GitHub Pages publicerar grenen `main` från roten. En push till `main` är live efter någon minut på https://dlundin-private.github.io/lashastighet/. Samtidigt körs kontrollskriptet i GitHub Actions. Ett fel där stoppar inte publiceringen, så kör `node scripts/check-content.js` innan du pushar.
 
-## Deploy
-
-Varje push till `main` kör kontrollskriptet och publicerar sedan på Cloudflare Workers via GitHub Actions. Det kräver två secrets i GitHub-repot: `CLOUDFLARE_API_TOKEN` och `CLOUDFLARE_ACCOUNT_ID`.
+Sparningen i `localStorage` hör ihop med domänen. Byter spelet adress, till exempel till en egen domän med en `CNAME`-fil, börjar alla spelare om från noll.
