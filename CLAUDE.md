@@ -18,6 +18,7 @@ content.js   parsrar för texter.md och ord.md (delas med kontrollskriptet)
 texter.md    alla texter och frågor till Läsbanan
 ord.md       orden till Blixtordet och deras snarlika ord
 fonts/       typsnitten (woff2) med sina OFL-licenser
+CNAME        egen domän för GitHub Pages
 .nojekyll    gör att GitHub Pages serverar .md-filerna som de är
 scripts/
   check-content.js   kontrollerar innehållsfilerna
@@ -57,6 +58,6 @@ Kör kommandot i repots rot (eller valfri annan statisk server, t.ex. `python3 -
 
 ## Publicering
 
-GitHub Pages publicerar grenen `main` från roten. En push till `main` är live efter någon minut på https://dlundin-private.github.io/lashastighet/. Samtidigt körs kontrollskriptet i GitHub Actions. Ett fel där stoppar inte publiceringen, så kör `node scripts/check-content.js` innan du pushar.
+GitHub Pages publicerar grenen `main` från roten. En push till `main` är live efter någon minut på https://lashastighet.chandler.se (filen `CNAME`, DNS-posten pekar på `dlundin-private.github.io`). Den gamla adressen dlundin-private.github.io/lashastighet/ skickas vidare dit. Samtidigt körs kontrollskriptet i GitHub Actions. Ett fel där stoppar inte publiceringen, så kör `node scripts/check-content.js` innan du pushar.
 
-Sparningen i `localStorage` hör ihop med domänen. Byter spelet adress, till exempel till en egen domän med en `CNAME`-fil, börjar alla spelare om från noll.
+Sparningen i `localStorage` hör ihop med domänen. Byt inte domän, då börjar alla spelare om från noll.

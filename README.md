@@ -4,7 +4,7 @@ Ett snabbläsningsspel för barn, utan reklam och utan köp. Se `CLAUDE.md` för
 
 ## Spela
 
-https://dlundin-private.github.io/lashastighet/
+https://lashastighet.chandler.se
 
 Spelet publiceras med GitHub Pages från grenen `main`. Lokalt: kör `npx serve .` i roten och öppna adressen som visas.
 
