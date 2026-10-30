@@ -7,6 +7,7 @@ Ett webbspel som tränar barn att läsa snabbare, med bibehållen förståelse. 
 - Ingen reklam, inga köp och ingen pay-to-win. Belöningarna (stjärnor, djurstegen, dagar i rad) får bara bygga på hur barnet faktiskt läser.
 - Inga konton och ingen server. Framsteg sparas i webbläsarens localStorage under nyckeln `lasfart-v1`.
 - Ingen byggprocess. Filerna i roten publiceras exakt som de är.
+- Inget laddas externt. Typsnitten Atkinson Hyperlegible och Fredoka ligger i `fonts/` (SIL OFL, licenstexten bredvid) och laddas via `@font-face` i `index.html`. Länka inte till Google Fonts, det skickar besökarens IP-adress till Google.
 - Förståelsen styr farten. I Läsbanan får nästa text högre fart bara när barnet svarar rätt på frågorna.
 
 ## Struktur
@@ -16,6 +17,7 @@ index.html   spelet: HTML, CSS och JS i en fil
 content.js   parsrar för texter.md och ord.md (delas med kontrollskriptet)
 texter.md    alla texter och frågor till Läsbanan
 ord.md       orden till Blixtordet och deras snarlika ord
+fonts/       typsnitten (woff2) med sina OFL-licenser
 .nojekyll    gör att GitHub Pages serverar .md-filerna som de är
 scripts/
   check-content.js   kontrollerar innehållsfilerna
