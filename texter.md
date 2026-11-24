@@ -18,7 +18,7 @@ Mira har en röd katt. Katten heter Sixten. Sixten gillar att sova i solen. En d
 
 ## Tornet
 
-Olle bygger ett torn av klossar. Tornet blir högre och högre. Hunden Bruno springer förbi och viftar med svansen. Pang! Tornet ramlar. Olle skrattar och börjar om.
+Olle bygger ett torn av klossar. Tornet blir högre och högre. Hunden Bruno springer förbi och viftar med svansen. Pang! Tornet ramlar. Olle skrattar och börjar om. Nu bygger han ett ännu högre torn.
 
 - Vad bygger Olle? | Ett torn | En båt | En bil | En koja
 - Vem får tornet att ramla? | Hunden | Olle | Mamma | Vinden
@@ -26,7 +26,7 @@ Olle bygger ett torn av klossar. Tornet blir högre och högre. Hunden Bruno spr
 
 ## Snögubben
 
-Det snöar ute. Ella tar på sig mössa och vantar. Hon gör en snögubbe i trädgården. Han får en morot som näsa och två stenar som ögon.
+Det snöar ute. Ella tar på sig mössa och vantar. Hon gör en snögubbe i trädgården. Han får en morot som näsa och två stenar som ögon. Till sist får snögubben en gammal halsduk runt halsen.
 
 - Vad tar Ella på sig? | Mössa och vantar | Badkläder | Stövlar och regnjacka | En hjälm
 - Vad blir snögubbens näsa? | En morot | En sten | En pinne | Ett äpple
@@ -106,7 +106,7 @@ En ny flicka börjar i klassen. Hon heter Yara och kommer från en annan stad. P
 
 ## Bläckfisken
 
-Bläckfisken har åtta armar. Den kan byta färg för att gömma sig. Om en fiende kommer kan den spruta svart bläck och simma iväg.
+Bläckfisken har åtta armar. På armarna sitter massor av sugkoppar. Den kan byta färg för att gömma sig. Om en fiende kommer kan den spruta svart bläck och simma iväg. Bläckfisken är också ett mycket smart djur.
 
 - Hur många armar har bläckfisken? | Åtta | Sex | Tio | Fyra
 - Varför byter den färg? | För att gömma sig | För att det är kul | För att sova | För att bli varm
@@ -122,7 +122,7 @@ Pappa och Ali bakar kakor. Ali häller i mjöl, socker och smör. Han glömmer n
 
 ## Regnbågen
 
-En regnbåge syns när solen skiner samtidigt som det regnar. I regndropparna delas ljuset upp i många färger. Du ser regnbågen bäst om du har solen bakom dig.
+En regnbåge syns när solen skiner samtidigt som det regnar. I regndropparna delas ljuset upp i många färger. Du ser regnbågen bäst om du har solen bakom dig. Färgerna kommer alltid i samma ordning.
 
 - När syns en regnbåge? | När det regnar och är sol | Bara på natten | När det snöar | När det är molnigt
 - Var delas ljuset upp i färger? | I regndropparna | I solen | I gräset | I dina ögon
@@ -162,7 +162,7 @@ Lina tappar sin röda vante på väg hem från skolan. Hon blir ledsen, för det
 
 ## Hajens tänder
 
-Hajar har funnits i havet mycket längre än dinosaurierna. En haj tappar tänder hela tiden, men det växer alltid ut nya. Vissa hajar får tusentals tänder under sitt liv.
+Hajar har funnits i havet mycket längre än dinosaurierna. En haj tappar tänder hela tiden, men det växer alltid ut nya. Vissa hajar får tusentals tänder under sitt liv. Hajen har inget skelett av ben, utan av brosk.
 
 - Vad tappar hajen hela tiden? | Tänder | Fjäll | Fenor | Ögon
 - Vad händer när en tand faller ut? | En ny växer ut | Hajen blir hungrig | Inget mer | Hajen blir arg
@@ -356,7 +356,7 @@ Månen lyser inte av sig själv. Det vi ser är solljus som studsar mot månens 
 
 ## Vikingarnas skepp
 
-Vikingarna byggde långa, smala skepp av ek. Skeppen var så grunda att de kunde segla långt upp i floder. Många vikingar var inte krigare utan bönder och handelsmän. De reste ända till Konstantinopel för att köpa silke och silver. Hemma i Norden bytte de varorna mot päls, järn och mat.
+Vikingarna byggde långa, smala skepp av ek. Skeppen var så grunda att de kunde segla långt upp i floder. Seglen var ofta vävda av ull, och när det inte blåste kunde besättningen ro. Många vikingar var inte krigare utan bönder och handelsmän. De reste ända till Konstantinopel för att köpa silke och silver. Hemma i Norden bytte de varorna mot päls, järn och mat.
 
 - Vilket trä byggdes skeppen av? | Ek | Gran | Björk | Tall
 - Varför kunde skeppen segla i floder? | De var grunda | De var snabba | De hade motor | De var korta
@@ -396,7 +396,7 @@ Varje år vann farmor baktävlingen i byn med sin kladdkaka. Ingen visste varfö
 
 ## Blixt och åska
 
-En blixt är en jättestor elektrisk gnista mellan molnen och marken. Den är omkring fem gånger varmare än solens yta. Ljuset når oss nästan direkt, men ljudet, alltså åskan, rör sig mycket långsammare. Räkna sekunderna mellan blixten och mullret och dela med tre. Då får du ungefär hur många kilometer bort ovädret är.
+En blixt är en jättestor elektrisk gnista mellan molnen och marken. Den är omkring fem gånger varmare än solens yta. Ljuset når oss nästan direkt, men ljudet, alltså åskan, rör sig mycket långsammare. Räkna sekunderna mellan blixten och mullret och dela med tre. Då får du ungefär hur många kilometer bort ovädret är. När det åskar ska man inte bada eller stå under ett ensamt träd. Säkrast är att gå inomhus. Om man inte kan det är en bil bättre än att vara ute.
 
 - Hur varm är en blixt? | Fem gånger varmare än solens yta | Som en varm spis | Hälften så varm som solen | Inte varm alls
 - Vad är åskan? | Ljudet från blixten | Ljuset från blixten | Regnet | Vinden
@@ -428,7 +428,7 @@ Sara hade misslyckats med simprovet två gånger. Tvåhundra meter kändes oänd
 
 ## Island
 
-Island ligger precis där två jordplattor glider isär. Därför har ön många vulkaner och varma källor. Islänningarna använder värmen från marken för att värma sina hus och sina växthus, där de till och med har odlat bananer. På vintern är dagarna mycket korta, men då kan man ofta se norrsken dansa över himlen.
+Island ligger precis där två jordplattor glider isär. Därför har ön många vulkaner och varma källor. Samtidigt är ungefär en tiondel av ön täckt av glaciärer. Islänningarna använder värmen från marken för att värma sina hus och sina växthus, där de till och med har odlat bananer. På vintern är dagarna mycket korta, men då kan man ofta se norrsken dansa över himlen.
 
 - Varför har Island många vulkaner? | Två jordplattor glider isär | Ön ligger nära solen | Det är varmt där | Det regnar mycket
 - Vad har de odlat i växthus? | Bananer | Ris | Kaffe | Kakao
@@ -452,7 +452,7 @@ Elefanter är de största djuren på land. Snabeln är både näsa och överläp
 
 ## Kolibrin
 
-Kolibrier är världens minsta fåglar. Den allra minsta arten, bikolibrin, väger mindre än en sockerbit. Vingarna slår så snabbt, upp till åttio gånger i sekunden, att det surrar om dem. Kolibrin kan stå still i luften och till och med flyga baklänges. Den behöver äta nektar nästan hela tiden, och på natten sänker den kroppstemperaturen för att spara energi.
+Kolibrier är världens minsta fåglar. Den allra minsta arten, bikolibrin, väger mindre än en sockerbit. Vingarna slår så snabbt, upp till åttio gånger i sekunden, att det surrar om dem. Kolibrin kan stå still i luften och till och med flyga baklänges. Den behöver äta nektar nästan hela tiden, och på natten sänker den kroppstemperaturen för att spara energi. Bikolibrins ägg är ungefär lika stora som ärtor.
 
 - Hur mycket väger bikolibrin? | Mindre än en sockerbit | Som ett äpple | Ett kilo | Som en katt
 - Vad kan kolibrin göra som de flesta fåglar inte kan? | Flyga baklänges | Simma | Springa fort | Sjunga
@@ -654,7 +654,7 @@ Under idrotten skulle två lagkaptener välja lag. Ludvig blev som vanligt vald 
 
 ## Skogens nätverk
 
-Under skogsmarken finns ett nätverk som är mycket större än det man ser ovanför. Svamptrådar, så kallat mycel, slingrar sig mellan trädens rötter. Träden ger svamparna socker som de tillverkat med hjälp av solljus, och i utbyte hjälper svamparna träden att ta upp vatten och näring. Forskare har upptäckt att näring ibland kan vandra mellan olika träd via svamptrådarna. Det betyder att en skog till viss del fungerar som ett samarbete. Svampen vi plockar på hösten är egentligen bara organismens fruktkropp, ungefär som ett äpple på ett träd.
+Under skogsmarken finns ett nätverk som är mycket större än det man ser ovanför. Svamptrådar, så kallat mycel, slingrar sig mellan trädens rötter. Träden ger svamparna socker som de tillverkat med hjälp av solljus, och i utbyte hjälper svamparna träden att ta upp vatten och näring. Forskare har upptäckt att näring ibland kan vandra mellan olika träd via svamptrådarna. En enda svamp kan vara kopplad till många träd samtidigt. Det betyder att en skog till viss del fungerar som ett samarbete. Svampen vi plockar på hösten är egentligen bara organismens fruktkropp, ungefär som ett äpple på ett träd.
 
 - Vad kallas svamptrådarna? | Mycel | Sporer | Lav | Rötter
 - Vad får svamparna från träden? | Socker | Vatten | Kväve | Ljus
@@ -670,7 +670,7 @@ Kartan hade blivit blöt i regnet, och Lisa var inte längre säker på var hon 
 
 ## Varför blir det vinter?
 
-Många tror att det är vinter för att jorden då är längre från solen, men så är det inte. Jordaxeln lutar ungefär 23 grader. Under vår vinter lutar norra halvklotet bort från solen, så solljuset träffar marken snett och sprids ut över en större yta. Dagarna blir dessutom korta, vilket ger mindre tid för solen att värma. Samtidigt är det sommar i Australien, eftersom södra halvklotet då lutar mot solen. Jorden är faktiskt som närmast solen i början av januari.
+Många tror att det är vinter för att jorden då är längre från solen, men så är det inte. Jordaxeln lutar ungefär 23 grader. Under vår vinter lutar norra halvklotet bort från solen, så solljuset träffar marken snett och sprids ut över en större yta. Dagarna blir dessutom korta, vilket ger mindre tid för solen att värma. Samtidigt är det sommar i Australien, eftersom södra halvklotet då lutar mot solen. Jorden är faktiskt som närmast solen i början av januari. Längst upp i norra Sverige går solen inte ens upp under några veckor mitt i vintern.
 
 - Vad orsakar årstiderna? | Att jordaxeln lutar | Avståndet till solen | Molnen | Månen
 - När är jorden närmast solen? | I början av januari | Vid midsommar | I oktober | I april
@@ -678,7 +678,7 @@ Många tror att det är vinter för att jorden då är längre från solen, men 
 
 ## Kardborrbandet
 
-Ingenjören George de Mestral var ute och gick med sin hund i Alperna. När de kom hem satt hans byxor och hundens päls fulla av kardborrar. Han blev nyfiken och tittade på dem i mikroskop. Där såg han att kardborrarna hade hundratals små krokar som fastnade i öglor i tyget. Det tog honom flera år att hitta ett sätt att tillverka samma sak av konstgjort material. Resultatet blev kardborrbandet, som i dag sitter på allt från skor till rymddräkter. Att låna idéer från naturen kallas biomimetik.
+Ingenjören George de Mestral var ute och gick med sin hund i Alperna. När de kom hem satt hans byxor och hundens päls fulla av kardborrar. Han blev nyfiken och tittade på dem i mikroskop. Där såg han att kardborrarna hade hundratals små krokar som fastnade i öglor i tyget. Det tog honom flera år att hitta ett sätt att tillverka samma sak av konstgjort material. På 1950-talet fick han patent på sin uppfinning. Resultatet blev kardborrbandet, som i dag sitter på allt från skor till rymddräkter. Att låna idéer från naturen kallas biomimetik.
 
 - Vad hade fastnat i pälsen? | Kardborrar | Snö | Lera | Barr
 - Vad såg han i mikroskopet? | Små krokar | Klister | Taggar | Hår
@@ -686,7 +686,7 @@ Ingenjören George de Mestral var ute och gick med sin hund i Alperna. När de k
 
 ## Möglet som räddade liv
 
-Sommaren 1928 åkte Alexander Fleming på semester och lämnade några odlingsskålar med bakterier på labbänken. När han kom tillbaka hade en av skålarna fått mögel. Runt möglet hade bakterierna dött. I stället för att slänga skålen blev Fleming nyfiken. Möglet visade sig tillverka ett ämne som han kallade penicillin. Det dröjde ändå mer än tio år innan andra forskare lyckades framställa det i så stora mängder att det kunde användas som medicin. Under andra världskriget räddade penicillinet tusentals soldater från att dö av infekterade sår.
+Sommaren 1928 åkte Alexander Fleming på semester och lämnade några odlingsskålar med bakterier på labbänken. När han kom tillbaka hade en av skålarna fått mögel. Runt möglet hade bakterierna dött. I stället för att slänga skålen blev Fleming nyfiken. Möglet visade sig tillverka ett ämne som han kallade penicillin. Det dröjde ändå mer än tio år innan andra forskare lyckades framställa det i så stora mängder att det kunde användas som medicin. Under andra världskriget räddade penicillinet tusentals soldater från att dö av infekterade sår. År 1945 fick Fleming Nobelpriset i medicin tillsammans med Howard Florey och Ernst Chain, som hade lyckats rena penicillinet och visa att det fungerade som medicin.
 
 - Vad hade hänt med skålen? | Den hade fått mögel | Den hade gått sönder | Den hade torkat ut | Den hade frusit
 - Vad hände runt möglet? | Bakterierna dog | Bakterierna växte snabbare | Skålen blev blå | Ingenting
@@ -702,7 +702,7 @@ Stolliften stannade med ett ryck, och Kim och hennes kusin Jamal blev hängande 
 
 ## När alla städer hade egen tid
 
-Förr hade varje stad sin egen tid. Klockan var tolv när solen stod som högst, och därför skilde det ungefär tjugofem minuter mellan Stockholm och Göteborg. Det var inget problem så länge man reste med häst. Men när tågen började gå efter tidtabell blev det rörigt, eftersom en avgångstid kunde betyda olika saker i olika städer. I Sverige infördes därför en gemensam tid för hela landet 1879. Senare delades hela jorden in i tidszoner, så att länder som ligger nära varandra kan ha samma klocka.
+Förr hade varje stad sin egen tid. Klockan var tolv när solen stod som högst, och därför skilde det ungefär tjugofem minuter mellan Stockholm och Göteborg. Det var inget problem så länge man reste med häst. Då märktes det knappt att klockorna gick olika. Men när tågen började gå efter tidtabell blev det rörigt, eftersom en avgångstid kunde betyda olika saker i olika städer. I Sverige infördes därför en gemensam tid för hela landet 1879. Senare delades hela jorden in i tidszoner, så att länder som ligger nära varandra kan ha samma klocka.
 
 - Vad bestämde en stads tid förr? | När solen stod som högst | Kyrkans klocka i Stockholm | Kungens beslut | Tågens avgångar
 - Vad gjorde att det blev rörigt? | Tågen och tidtabellerna | Hästarna | Telefonen | Flygplanen
@@ -718,7 +718,7 @@ Det var tre minuter kvar till hennes framträdande när Alva märkte att den lju
 
 ## Plasten som försvinner
 
-Varje år hamnar miljontals ton plast i världens hav. En del flyter samman i stora virvlar där havsströmmar möts, men det mesta syns inte alls. Solljus och vågor bryter långsamt ner plasten till mikroplast, bitar som är mindre än fem millimeter. De är så små att de äts av plankton och småfisk och sedan vandrar vidare uppåt i näringskedjan. Forskare har hittat mikroplast på botten av de djupaste havsgravarna och i isen i Arktis. Plasten försvinner aldrig helt, den blir bara mindre och mindre.
+Varje år hamnar miljontals ton plast i världens hav. En del flyter samman i stora virvlar där havsströmmar möts, men det mesta syns inte alls. Solljus och vågor bryter långsamt ner plasten till mikroplast, bitar som är mindre än fem millimeter. De är så små att de äts av plankton och småfisk och sedan vandrar vidare uppåt i näringskedjan. Forskare har hittat mikroplast på botten av de djupaste havsgravarna och i isen i Arktis. Plasten försvinner aldrig helt, den blir bara mindre och mindre. Därför är det bästa sättet att minska problemet att plasten aldrig hamnar i naturen från början.
 
 - Hur små är bitarna av mikroplast? | Mindre än fem millimeter | Mindre än fem centimeter | Som en fotboll | Osynliga atomer
 - Vad bryter ner plasten? | Solljus och vågor | Bakterier som äter plast | Saltet i havet | Fiskarna
@@ -726,7 +726,7 @@ Varje år hamnar miljontals ton plast i världens hav. En del flyter samman i st
 
 ## Tårtmysteriet
 
-Någon hade ätit upp halva tårtan i personalrummet, och klassen fick i uppdrag att lösa fallet. Det fanns tre misstänkta: vaktmästaren, rektorn och skolsköterskan. Rektorn kunde strykas direkt, eftersom hon suttit i ett videomöte med kameran på hela förmiddagen. Vaktmästaren var allergisk mot nötter, och tårtan var täckt av rostade hasselnötter. Kvar fanns skolsköterskan. När klassen knackade på hennes dörr såg de en fläck vaniljkräm på hennes ärm. Hon erkände med ett skratt: hon hade trott att tårtan var till henne, eftersom hon fyllde år dagen därpå.
+Någon hade ätit upp halva tårtan i personalrummet, och klassen fick i uppdrag att lösa fallet. Det fanns tre misstänkta: vaktmästaren, rektorn och skolsköterskan. Rektorn kunde strykas direkt, eftersom hon suttit i ett videomöte med kameran på hela förmiddagen. Vaktmästaren var allergisk mot nötter, och tårtan var täckt av rostade hasselnötter. Kvar fanns skolsköterskan. När klassen knackade på hennes dörr såg de en fläck vaniljkräm på hennes ärm. Hon erkände med ett skratt: hon hade trott att tårtan var till henne, eftersom hon fyllde år dagen därpå. Klassen fick dela på den andra halvan.
 
 - Varför kunde rektorn strykas? | Hon satt i ett videomöte | Hon var bortrest | Hon gillar inte tårta | Hon var sjuk
 - Varför var det inte vaktmästaren? | Han var allergisk mot nötter | Han var på semester | Han hade ett alibi | Han hade redan ätit
@@ -734,7 +734,7 @@ Någon hade ätit upp halva tårtan i personalrummet, och klassen fick i uppdrag
 
 ## Havets syrefabrik
 
-Ungefär hälften av syret vi andas kommer inte från skogar utan från havet. Där lever enorma mängder växtplankton, mikroskopiska alger som precis som träd använder solljus för att tillverka socker av koldioxid och vatten. Syret blir över. Ett av de vanligaste planktonen, Prochlorococcus, upptäcktes först på 1980-talet trots att det finns i nästan alla världshav. Det är så litet att omkring hundra stycken skulle få plats bredvid varandra på bredden av ett hårstrå.
+Ungefär hälften av syret vi andas kommer inte från skogar utan från havet. Där lever enorma mängder växtplankton, mikroskopiska alger och bakterier som precis som träd använder solljus för att tillverka socker av koldioxid och vatten. Syret blir över. Ett av de vanligaste planktonen, bakterien Prochlorococcus, upptäcktes först på 1980-talet trots att det finns i nästan alla världshav. Det är så litet att omkring hundra stycken skulle få plats bredvid varandra på bredden av ett hårstrå. Även i Östersjön finns det gott om växtplankton. Under varma somrar kan de bli så många att vattnet blir grönt, och det kallas algblomning.
 
 - Hur mycket av syret kommer från havet? | Ungefär hälften | En tiondel | Nästan allt | Inget alls
 - Vad tillverkar växtplankton med hjälp av solljus? | Socker | Salt | Kalk | Olja
@@ -742,7 +742,7 @@ Ungefär hälften av syret vi andas kommer inte från skogar utan från havet. D
 
 ## Sista bussen
 
-Bussen gick klockan 21.40, och Oskar kom fram till hållplatsen precis när baklyktorna försvann runt hörnet. Telefonen hade två procent batteri kvar. Han hann skicka ett sms till mamma innan skärmen slocknade: ”Missade bussen. Går till Lindas.” Lindas hus låg tre kilometer bort, längs en väg utan gatlampor. Oskar kom ihåg reflexen i jackfickan och fäste den på armen. Halvvägs dit saktade en bil in bredvid honom. Det var Lindas pappa, som hade fått ett samtal från Oskars mamma och kört ut för att möta honom.
+Bussen gick klockan 21.40, och Oskar kom fram till hållplatsen precis när baklyktorna försvann runt hörnet. Telefonen hade två procent batteri kvar. Han hann skicka ett sms till mamma innan skärmen slocknade: ”Missade bussen. Går till Lindas.” Lindas hus låg tre kilometer bort, längs en väg utan gatlampor. Oskar kom ihåg reflexen i jackfickan och fäste den på armen. Då skulle bilarna se honom på långt håll. Halvvägs dit saktade en bil in bredvid honom. Det var Lindas pappa, som hade fått ett samtal från Oskars mamma och kört ut för att möta honom.
 
 - Hur mycket batteri hade telefonen? | Två procent | Tjugo procent | Noll procent | Hälften
 - Vad satte han på armen? | En reflex | En ficklampa | En klocka | Ett band
@@ -750,7 +750,7 @@ Bussen gick klockan 21.40, och Oskar kom fram till hållplatsen precis när bakl
 
 ## Varför flygplan flyger
 
-Ett stort flygplan kan väga flera hundra ton, ändå håller det sig i luften. Hemligheten finns i vingarnas form och vinkel. När planet rör sig framåt leder vingen luften nedåt, och då trycks vingen uppåt. Det är samma sak som när du håller ut handen genom bilfönstret och vinklar den lite. För att det ska fungera måste planet hålla tillräckligt hög fart. Därför behöver stora plan långa startbanor, och därför kan ett plan som tappar motorkraften högt uppe ändå glida långt.
+Ett stort flygplan kan väga flera hundra ton, ändå håller det sig i luften. Hemligheten finns i vingarnas form och vinkel. När planet rör sig framåt leder vingen luften nedåt, och då trycks vingen uppåt. Det är samma sak som när du håller ut handen genom bilfönstret och vinklar den lite. Handen lyfts uppåt av luften som träffar den. Hur mycket vingen lutar mot luften kallas anfallsvinkel. För att det ska fungera måste planet hålla tillräckligt hög fart. Därför behöver stora plan långa startbanor, och därför kan ett plan som tappar motorkraften högt uppe ändå glida långt.
 
 - Vad gör att vingen trycks uppåt? | Den leder luften nedåt | Motorerna drar uppåt | Planet är fyllt med gas | Vingarna slår som en fågels
 - Vilken jämförelse används? | Handen ut genom bilfönstret | En ballong | En fågel som dyker | En drake i snöre
@@ -758,7 +758,7 @@ Ett stort flygplan kan väga flera hundra ton, ändå håller det sig i luften. 
 
 ## Klätterväggen
 
-Vid tredje bulten tittade Felix ner för första gången och ångrade det genast. Repet gick ner till Ida, som säkrade honom från marken, men det kändes ändå som om berget lutade utåt. Han hittade inget grepp för vänsterhanden. ”Andas”, ropade Ida. ”Titta på fötterna, inte på händerna.” Felix flyttade högerfoten till en liten kant han inte sett och kunde plötsligt resa sig en halvmeter. Där satt greppet han letat efter. Tjugo minuter senare klippte han in repet i ankaret högst upp och lät sig sänkas ner, skakig men stolt.
+Vid tredje bulten tittade Felix ner för första gången och ångrade det genast. Repet gick ner till Ida, som säkrade honom från marken, men det kändes ändå som om berget lutade utåt. Han hittade inget grepp för vänsterhanden. Munnen var alldeles torr. ”Andas”, ropade Ida. ”Titta på fötterna, inte på händerna.” Felix flyttade högerfoten till en liten kant han inte sett och kunde plötsligt resa sig en halvmeter. Där satt greppet han letat efter. Tjugo minuter senare klippte han in repet i ankaret högst upp och lät sig sänkas ner, skakig men stolt.
 
 - Vem säkrade Felix? | Ida | En instruktör | Hans pappa | Ingen
 - Vilket råd fick han? | Titta på fötterna | Titta upp mot toppen | Klättra snabbare | Släpp repet
@@ -766,7 +766,7 @@ Vid tredje bulten tittade Felix ner för första gången och ångrade det genast
 
 ## Berget som växer
 
-Mount Everest är världens högsta berg, 8 849 meter över havet. Berget blir faktiskt fortfarande lite högre, eftersom den indiska kontinentalplattan fortsätter att pressas in under den eurasiska. Samtidigt nöter vind och is på toppen. Där uppe innehåller varje andetag bara ungefär en tredjedel så mycket syre som vid havsytan, och de flesta klättrare använder därför syrgas. De första som bevisligen nådde toppen var Edmund Hillary och sherpan Tenzing Norgay år 1953.
+Mount Everest är världens högsta berg, 8 849 meter över havet. Berget blir faktiskt fortfarande lite högre, eftersom den indiska kontinentalplattan fortsätter att pressas in under den eurasiska. Samtidigt nöter vind och is på toppen. Där uppe innehåller varje andetag bara ungefär en tredjedel så mycket syre som vid havsytan, och de flesta klättrare använder därför syrgas. De första som bevisligen nådde toppen var Edmund Hillary och sherpan Tenzing Norgay år 1953. Berget ligger på gränsen mellan Nepal och Kina, och de båda länderna presenterade tillsammans den nya höjden år 2020.
 
 - Hur högt är Mount Everest? | 8 849 meter | 5 849 meter | 10 849 meter | 6 849 meter
 - Varför blir berget högre? | Två jordplattor pressas mot varandra | Det snöar på toppen | Vulkanutbrott | Klättrare bygger på det
@@ -838,7 +838,7 @@ I sexan fick alla i klassen en brevvän i Japan, och Ella fick Hana. Breven tog 
 
 ## Det första vaccinet
 
-I slutet av 1700-talet dödade smittkoppor hundratusentals människor varje år. Den engelske läkaren Edward Jenner lade märke till att mjölkerskor som hade fått de ofarliga kokopporna från kor sällan blev sjuka i smittkoppor. År 1796 tog han vätska från en kokoppsblåsa och förde in den i en liten skåra på armen på en pojke. Senare utsatte han pojken för smittkoppor, och pojken blev inte sjuk. Ordet vaccin kommer från latinets vacca, som betyder ko. Tack vare vaccination kunde smittkopporna förklaras utrotade år 1980.
+I slutet av 1700-talet dödade smittkoppor hundratusentals människor varje år. Den engelske läkaren Edward Jenner lade märke till att mjölkerskor som hade fått de ofarliga kokopporna från kor sällan blev sjuka i smittkoppor. År 1796 tog han vätska från en kokoppsblåsa och förde in den i en liten skåra på armen på en pojke. Pojken hette James Phipps och var åtta år gammal. Senare utsatte han pojken för smittkoppor, och pojken blev inte sjuk. Ordet vaccin kommer från latinets vacca, som betyder ko. Tack vare vaccination kunde smittkopporna förklaras utrotade år 1980.
 
 - Vilka blev sällan sjuka i smittkoppor? | Mjölkerskor | Läkare | Soldater | Präster
 - Vad betyder det latinska ordet vacca? | Ko | Medicin | Skydd | Nål
@@ -854,7 +854,7 @@ Flyttlasset gick på fredagen, och på måndagen stod Jonatan utanför en skola 
 
 ## Golfströmmen
 
-Stockholm ligger ungefär lika långt norrut som södra Grönland, men vintrarna är betydligt mildare. En viktig förklaring är Golfströmmen och dess fortsättning, Nordatlantiska strömmen. Den för med sig varmt vatten från Mexikanska golfen tvärs över Atlanten upp mot Europas kuster. Värmen från havet följer med vindarna in över land. Därför fryser hamnarna i norra Norge sällan, trots att de ligger norr om polcirkeln. Forskare följer noga om strömmen försvagas, eftersom det skulle kunna påverka klimatet i hela Nordeuropa.
+Stockholm ligger ungefär lika långt norrut som södra Grönland, men vintrarna är betydligt mildare. En viktig förklaring är Golfströmmen och dess fortsättning, Nordatlantiska strömmen. Golfströmmen är en av världens kraftigaste havsströmmar och för med sig mer vatten än alla jordens floder tillsammans. Den för med sig varmt vatten från Mexikanska golfen tvärs över Atlanten upp mot Europas kuster. Värmen från havet följer med vindarna in över land. Därför fryser hamnarna i norra Norge sällan, trots att de ligger norr om polcirkeln. Forskare följer noga om strömmen försvagas, eftersom det skulle kunna påverka klimatet i hela Nordeuropa.
 
 - Vilket område ligger lika långt norrut som Stockholm? | Södra Grönland | Spanien | Egypten | Italien
 - Varifrån kommer det varma vattnet? | Mexikanska golfen | Nordpolen | Östersjön | Medelhavet
