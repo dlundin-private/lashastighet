@@ -248,6 +248,86 @@ Stjärnorna på himlen är solar. De ser små ut för att de är väldigt långt
 - Varför ser de små ut? | De är långt borta | De är små på riktigt | De är trötta | Det är molnigt
 - Vad är solen? | En stjärna | En planet | En måne | Ett moln
 
+## Ugglan
+
+De flesta ugglor jagar på natten. Ugglan har stora ögon och hör mycket bra. Den kan inte röra ögonen åt sidan. I stället vrider den huvudet, så långt att den kan se rakt bakåt. Den flyger nästan helt tyst mot musen.
+
+- När jagar de flesta ugglor? | På natten | På morgonen | Mitt på dagen | Bara på vintern
+- Vad gör ugglan i stället för att röra ögonen? | Vrider huvudet | Blundar | Flyger högre | Hoppar
+- Hur flyger ugglan mot musen? | Nästan helt tyst | Mycket högljutt | Baklänges | Med ett surrande ljud
+
+## Isbjörnen
+
+Isbjörnen bor där det är kallt och isigt. Pälsen ser vit ut, men huden under pälsen är svart. Isbjörnen är en duktig simmare. Den äter mest säl. Ungarna föds i en grotta av snö.
+
+- Vilken färg har isbjörnens hud? | Svart | Vit | Rosa | Brun
+- Vad äter isbjörnen mest? | Säl | Fisk | Bär | Gräs
+- Var föds ungarna? | I en grotta av snö | I ett träd | I vattnet | I ett bo av gräs
+
+## Nyckelpigan
+
+Nyckelpigan är en liten skalbagge. Många nyckelpigor är röda med svarta prickar. Prickarna visar inte hur gammal den är, fast många tror det. Nyckelpigan äter bladlöss. Därför blir trädgårdsmästare glada när de ser den.
+
+- Vad är nyckelpigan för slags djur? | En skalbagge | En fjäril | En spindel | En fluga
+- Vad äter nyckelpigan? | Bladlöss | Blommor | Myror | Löv
+- Vilka blir glada när de ser nyckelpigan? | Trädgårdsmästare | Fiskare | Bagare | Brevbärare
+
+## Sjöstjärnan
+
+Sjöstjärnan bor i havet. Den har ingen hjärna. Under armarna har den massor av små fötter. Längst ut på varje arm sitter ett litet öga. Om sjöstjärnan tappar en arm kan en ny arm växa ut, men det tar lång tid.
+
+- Vad har sjöstjärnan inte? | En hjärna | Armar | Fötter | Ögon
+- Var sitter sjöstjärnans ögon? | Längst ut på armarna | Mitt på ryggen | Under magen | Den har inga ögon
+- Vad händer om sjöstjärnan tappar en arm? | En ny arm växer ut | Den dör | Den simmar bort | Den byter färg
+
+## Hackspetten
+
+Hackspetten hackar hål i träd med sin hårda näbb. Under barken letar den efter insekter. Hackspetten har en väldigt lång tunga som når långt in i hålen. På våren hackar den ett bohål där ungarna ska bo.
+
+- Vad letar hackspetten efter under barken? | Insekter | Nötter | Vatten | Stenar
+- Vad är extra långt på hackspetten? | Tungan | Benen | Svansen | Halsen
+- Vad hackar hackspetten på våren? | Ett bohål | En trappa | En stig | Ett fönster
+
+## Cykeln
+
+Noah ska lära sig cykla utan stödhjul. Pappa håller i pakethållaren och springer bredvid. Noah trampar och trampar. När han tittar bakåt står pappa långt bort och vinkar. Noah har cyklat helt själv!
+
+- Vad ska Noah lära sig? | Cykla utan stödhjul | Simma | Åka skridskor | Klättra i träd
+- Vad håller pappa i? | Pakethållaren | Styret | Sadeln | Ringklockan
+- Vad gör pappa när Noah tittar bakåt? | Står och vinkar | Springer bredvid | Sitter på en bänk | Ropar stopp
+
+## Nallen som försvann
+
+Alva hittar inte sin nalle. Hon letar under sängen och i garderoben. Till slut hittar hon nallen i lillebrors säng. ”Han såg så ensam ut”, säger lillebror. Alva ler och låter nallen sova hos lillebror i natt.
+
+- Var hittar Alva nallen? | I lillebrors säng | Under sängen | I garderoben | I tvättkorgen
+- Varför tog lillebror nallen? | Nallen såg ensam ut | Han var arg på Alva | Han ville gömma den | Han ville ha den för alltid
+- Var sover nallen i natt? | Hos lillebror | Hos Alva | I garderoben | Hos mamma
+
+## Pannkakorna
+
+Det är lördag och Vera får göra pannkakor med mormor. Vera vispar ihop mjöl, mjölk och ägg. Mormor steker. Den första pannkakan blir alldeles knölig. ”Den första blir alltid konstig”, säger mormor och äter upp den.
+
+- Vem gör pannkakor med Vera? | Mormor | Pappa | Morfar | Storasyster
+- Vad gör Vera? | Vispar ihop mjöl, mjölk och ägg | Steker | Diskar | Dukar
+- Vem äter upp den första pannkakan? | Mormor | Vera | Hunden | Ingen
+
+## Biblioteket
+
+Elsa går till biblioteket med sin klass. Där finns tusentals böcker. Elsa får ett eget lånekort. Hon lånar en bok om hästar och en om rymden. Boken om rymden börjar hon läsa redan på bussen hem.
+
+- Vad får Elsa på biblioteket? | Ett lånekort | En ny väska | En penna | En glass
+- Vad handlar böckerna om? | Hästar och rymden | Hundar och bilar | Dinosaurier och vulkaner | Fotboll och simning
+- Var börjar Elsa läsa? | På bussen hem | I sängen | I skolan | På biblioteket
+
+## Kojan
+
+Ali och Sam bygger en koja i skogen. De använder pinnar, granris och en gammal filt. Plötsligt börjar det regna. De kryper in i kojan. Där inne är det torrt, och de äter sina mackor.
+
+- Var bygger de kojan? | I skogen | I trädgården | På stranden | I sitt rum
+- Vad händer plötsligt? | Det börjar regna | Det börjar snöa | En hund kommer | Kojan ramlar
+- Vad äter de i kojan? | Mackor | Bullar | Äpplen | Korv
+
 # Mellan (9–11 år)
 
 ## Bina
@@ -490,6 +570,86 @@ Solljuset ser vitt ut, men det innehåller alla regnbågens färger. När ljuset
 - Vilket ljus studsar iväg lättast? | Blått | Rött | Grönt | Gult
 - Varför blir himlen röd vid solnedgången? | Ljuset har längre väg genom luften | Solen blir varmare | Molnen färgar den | Månen lyser på den
 
+## Spindelns tråd
+
+En spindel kan tillverka flera olika sorters tråd. Vissa trådar är klibbiga och fångar insekter. Andra är torra, så att spindeln själv kan gå på dem utan att fastna. Räknat på vikten är spindeltråd starkare än stål. Många spindlar äter upp sitt gamla nät innan de spinner ett nytt. På så sätt återanvänder de trådarna och slösar inte med näringen.
+
+- Vad gör den klibbiga tråden? | Fångar insekter | Håller spindeln varm | Samlar regnvatten | Skrämmer fåglar
+- Vad är spindeltråd starkare än, räknat på vikten? | Stål | Diamant | Betong | Granit
+- Vad gör många spindlar med sitt gamla nät? | Äter upp det | Lämnar det kvar | Bygger bo av det | Gömmer det
+
+## Sengångaren
+
+Sengångaren bor i träden i Syd- och Centralamerikas regnskogar. Den rör sig så långsamt att alger kan växa i pälsen, vilket gör den lite grön. Det hjälper den att gömma sig bland löven. Sengångaren äter mest blad, och maten tar lång tid att smälta. Ungefär en gång i veckan klättrar den ner till marken för att bajsa. Sedan klättrar den lika långsamt upp igen.
+
+- Varför kan sengångaren se grön ut? | Alger växer i pälsen | Den äter gröna löv | Den rullar sig i gräs | Den föds grön
+- Hur ofta klättrar sengångaren ner till marken? | Ungefär en gång i veckan | Flera gånger om dagen | En gång om året | Aldrig
+- Vad äter sengångaren mest? | Blad | Insekter | Fisk | Nötter
+
+## Norrskenet
+
+Norrsken uppstår när små laddade partiklar från solen träffar luften högt över jorden. Då börjar luften lysa. Det vanligaste är ett grönt sken, men ibland syns också rött eller lila. Norrsken syns oftast långt norrut, till exempel i Norrland, under mörka och klara nätter. När solen är extra aktiv kan norrsken ibland synas ända nere i södra Sverige. Samma sak händer runt sydpolen, och där kallas ljuset sydsken.
+
+- Var kommer partiklarna ifrån? | Solen | Månen | Havet | Vulkaner
+- Vilken färg är vanligast i norrskenet? | Grön | Röd | Blå | Gul
+- Vad kallas samma ljus runt sydpolen? | Sydsken | Månsken | Midnattssol | Isglans
+
+## Fåglarna är dinosaurier
+
+Inte alla dinosaurier dog ut för omkring 66 miljoner år sedan. En grupp överlevde, och den lever fortfarande runt omkring oss – fåglarna. Forskare har hittat fossil av dinosaurier som hade fjädrar. Många av dem hade också ihåliga ben och ett önskeben, precis som fåglar har i dag. Fåglarnas närmaste släktingar bland dinosaurierna var små rovdjur som gick på två ben. Så när en koltrast hoppar omkring på gräsmattan ser du faktiskt en nutida dinosaurie.
+
+- Vilka dinosaurier lever kvar i dag? | Fåglarna | Ödlorna | Krokodilerna | Inga alls
+- Vad har forskare hittat fossil av? | Dinosaurier med fjädrar | Dinosaurier med gälar | Dinosaurier som kunde simma under isen | Dinosaurier med skal som snäckor
+- För hur länge sedan dog de andra dinosaurierna ut? | Omkring 66 miljoner år | Omkring 6 000 år | Omkring en miljon år | Omkring 600 år
+
+## Konsten under jorden
+
+Stockholms tunnelbana brukar kallas världens längsta konstutställning. Sedan 1950-talet har konstnärer smyckat stationerna med målningar, skulpturer och mönster. På många stationer har man låtit berget synas och målat direkt på de grottlika bergväggarna, så att det känns som att gå i en grotta. Vid blå linjens perronger på T-Centralen slingrar sig blå blad och rankor över väggarna. Det finns konst på de flesta av tunnelbanans omkring hundra stationer.
+
+- Vad brukar Stockholms tunnelbana kallas? | Världens längsta konstutställning | Världens djupaste tunnel | Världens snabbaste tåg | Världens äldsta tunnelbana
+- Vad har man målat på i många stationer? | Bergväggarna | Tågen | Rulltrapporna | Biljetterna
+- Vilken färg har bladen på T-Centralen? | Blå | Röda | Gröna | Gula
+
+## Nyckeln
+
+Wilma kom hem från skolan och letade i väskan efter nyckeln. Den var borta. Mamma skulle inte komma hem förrän klockan sex. Det började blåsa kallt, och Wilma kände hur gråten kom. Då kom hon ihåg att grannen Gunnel hade en extranyckel. Gunnel öppnade med ett leende och bjöd på varm choklad medan de väntade. Wilma tänkte att det kanske inte var så dumt att bli av med nyckeln ibland.
+
+- Vad hade Wilma tappat bort? | Nyckeln | Mobilen | Mössan | Busskortet
+- Vem hade en extranyckel? | Grannen | Mormor | Läraren | En kompis
+- Vad bjöd Gunnel på? | Varm choklad | Saft | Glass | Bullar
+
+## Loppisfyndet
+
+På loppisen hittade Viktor en gammal plåtask för fem kronor. Den var rostig, och locket satt hårt fast. Hemma lyckades han till slut bända upp den. Inuti låg vykort från 1960-talet, alla skrivna av samma person. På varje kort stod det: ”Snart kommer jag hem.” Viktor läste korten flera gånger och undrade om personen någonsin kom hem. Han bestämde sig för att försöka ta reda på det.
+
+- Vad kostade asken? | Fem kronor | Femtio kronor | En krona | Tio kronor
+- Vad låg i asken? | Vykort | Pengar | Fotografier | En nyckel
+- Vad stod det på varje kort? | Snart kommer jag hem | Jag saknar dig | Grattis på födelsedagen | Hälsningar från havet
+
+## Pianouppvisningen
+
+Hela veckan hade Ida övat på sitt stycke. Men när hon satt vid flygeln i aulan och såg alla ansikten började händerna darra. Mitt i stycket tappade hon bort sig. Det blev alldeles tyst. Ida blundade, andades djupt och började om från början. Den här gången spelade hon hela stycket utan ett enda fel. Applåderna blev de högsta under hela kvällen.
+
+- Var spelade Ida? | I aulan | I kyrkan | Hemma | I en musikaffär
+- Vad gjorde Ida när hon tappade bort sig? | Började om från början | Gick därifrån | Bytte till ett annat stycke | Bad någon annan spela
+- Hur blev applåderna? | De högsta under kvällen | Ganska tysta | Det blev inga alls | Korta och artiga
+
+## Kanoten
+
+Jonas och hans storasyster paddlade kanot på sjön. Mitt ute på vattnet slutade Jonas paddla och pekade. En stor fågel med vita fläckar på den svarta ryggen dök ner under ytan. Storlommen jagar fisk och kan simma långt under vattnet. ”En storlom”, viskade hans syster. De satt alldeles stilla och väntade. Efter en lång stund kom lommen upp igen, mycket längre bort än de hade trott.
+
+- Var paddlade de? | På sjön | På havet | I en älv | I en kanal
+- Vad sa systern att fågeln var? | En storlom | En svan | En skarv | En fiskmås
+- Var kom fågeln upp igen? | Mycket längre bort | Precis bredvid kanoten | Under kanoten | Den kom aldrig upp
+
+## Lagvalet
+
+Under idrotten skulle två lagkaptener välja lag. Ludvig blev som vanligt vald näst sist och kände sig dum. Men i matchen tog han bollen från den bästa spelaren i det andra laget och passade fram till lagets enda mål. Efteråt kom kaptenen fram och sa: ”Nästa gång väljer jag dig först.” Ludvig sa ingenting, men han log hela vägen hem.
+
+- När blev Ludvig vald? | Näst sist | Först | Sist | Inte alls
+- Vad gjorde Ludvig i matchen? | Passade fram till målet | Gjorde tre mål | Räddade en straff | Blev utvisad
+- Vad lovade kaptenen? | Att välja Ludvig först nästa gång | Att träna med Ludvig | Att byta lag | Att Ludvig fick bli kapten
+
 # Stor (12+ år)
 
 ## Skogens nätverk
@@ -731,3 +891,83 @@ I och på din kropp lever ungefär lika många bakterier som det finns celler i 
 - Var finns de flesta bakterierna? | I tarmen | På huden | I hjärnan | I blodet
 - Vad hjälper bakterierna till med? | Att bryta ner fibrer | Att se bättre | Att växa längre | Att springa fortare
 - Vilken mat verkar ge en mer varierad flora? | Fiberrik mat | Godis | Läsk | Vitt bröd
+
+## Ljuset från solen
+
+Ljuset färdas med en fart av ungefär 300 000 kilometer i sekunden. Det är så snabbt att det skulle kunna fara runt jorden mer än sju gånger på en enda sekund. Ändå tar det drygt åtta minuter för solljuset att nå oss, eftersom solen ligger ungefär 150 miljoner kilometer bort. Det betyder att vi alltid ser solen som den såg ut för åtta minuter sedan. Med stjärnorna är det ännu tydligare. Ljuset från många av dem har varit på väg i hundratals eller tusentals år. När du tittar på natthimlen tittar du alltså bakåt i tiden.
+
+- Hur lång tid tar det för solljuset att nå jorden? | Drygt åtta minuter | En sekund | En timme | Ett dygn
+- Hur många gånger runt jorden skulle ljuset hinna på en sekund? | Mer än sju | Två | Hundra | En halv
+- Vad gör man när man tittar på stjärnorna, enligt texten? | Tittar bakåt i tiden | Ser in i framtiden | Ser stjärnorna precis som de är just nu | Ser solens ljus studsa tillbaka
+
+## Vasaskeppet
+
+Den 10 augusti 1628 seglade regalskeppet Vasa ut från Stockholm. Det var ett av sin tids mäktigaste krigsskepp, med 64 kanoner. Efter bara ungefär 1 300 meter tog en vindby tag i seglen. Skeppet krängde, vatten forsade in genom kanonportarna och Vasa sjönk. Skeppet var för smalt och hade för lite tyngd längst ner. I över 300 år låg det på botten. Att träet klarade sig så bra beror bland annat på att skeppsmasken, som äter trä, inte trivs i Östersjöns bräckta vatten. År 1961 bärgades Vasa, och i dag kan man se skeppet på Vasamuseet i Stockholm.
+
+- Vilket år sjönk Vasa? | 1628 | 1961 | 1728 | 1528
+- Varför kantrade skeppet? | Det var för smalt och för lätt längst ner | Det träffades av en kanonkula | Det gick på grund | Det började brinna
+- Varför bevarades träet så bra? | Skeppsmasken trivs inte i Östersjön | Skeppet var målat med guld | Vattnet var varmt | Skeppet låg under en sten
+
+## Linnés namn
+
+På 1700-talet hade många växter och djur långa latinska namn som kunde vara nästan en hel mening. Den svenske naturforskaren Carl von Linné införde ett enklare system för alla arter: varje art fick ett namn i två delar. Den första delen talar om vilket släkte arten tillhör, och den andra skiljer den från andra arter i samma släkte. Vargen heter till exempel Canis lupus. Människan fick namnet Homo sapiens, som betyder ungefär ”den visa människan”. Systemet används fortfarande av forskare över hela världen. Det gör att alla vet vilken art man talar om, vilket språk man än pratar.
+
+- Hur många delar har ett artnamn i Linnés system? | Två | En | Tre | Fyra
+- Vad betyder Homo sapiens ungefär? | Den visa människan | Den starka människan | Den första människan | Den snabba människan
+- Varför är systemet bra? | Alla vet vilken art man menar, oavsett språk | Namnen blir längre och finare | Bara forskare i Sverige förstår det | Varje djur får ett nytt namn varje år
+
+## Tidvattnet
+
+Vid många kuster stiger och sjunker havet ungefär två gånger om dygnet. Det kallas tidvatten och beror främst på månen. Månens dragningskraft drar i haven, så att vattnet buktar ut på den sida av jorden som är vänd mot månen. En liknande utbuktning bildas på motsatta sidan. När jorden snurrar passerar kusterna genom utbuktningarna, och då blir det högvatten. I Fundybukten i Kanada kan skillnaden mellan hög- och lågvatten bli över 15 meter. I Östersjön märks tidvattnet knappt alls, eftersom havet är nästan instängt och bara har smala förbindelser med världshavet.
+
+- Vad beror tidvattnet främst på? | Månen | Vinden | Regnet | Strömmar från floderna
+- Ungefär hur många gånger om dygnet stiger havet vid många kuster? | Två | En | Fyra | Tio
+- Varför märks tidvattnet knappt i Östersjön? | Havet är nästan instängt | Vattnet är för kallt | Det blåser för mycket | Månen syns sällan där
+
+## Getingarnas papper
+
+Getingboet som hänger under taket är gjort av papper. Getingarna skrapar loss små träfibrer från gamla staket och döda grenar, tuggar dem och blandar dem med saliv. Massan breder de ut i tunna lager som torkar till ett grått och lätt papper. Länge gjorde människor papper av gamla tygtrasor, och trasorna räckte inte till. År 1719 skrev den franske forskaren René de Réaumur att man borde göra som getingarna och använda trä. Det dröjde ändå mer än hundra år innan pappersbruken började göra papper av trä. I dag tillverkas det mesta papperet av trä, precis som getingarna har gjort hela tiden.
+
+- Vad gör getingarna sitt papper av? | Träfibrer | Löv | Lera | Gräs
+- Vad gjorde människor länge papper av? | Gamla tygtrasor | Läder | Sand | Fjädrar
+- Vem skrev att man borde göra papper som getingarna? | René de Réaumur | Carl von Linné | En svensk kung | En kinesisk munk
+
+## Strömavbrottet
+
+Klockan sju på kvällen slocknade alla lampor i huset. Kylskåpet tystnade, wifin försvann och mobilen hade bara åtta procent kvar. Först var Moa irriterad. Pappa letade fram stearinljus och en gammal kortlek, och lillasyster ville lära sig spela vändåtta. De satt vid köksbordet i det fladdrande ljuset och spelade, medan pappa berättade om när strömmen var borta i tre dagar efter en storm när han var liten. När lamporna plötsligt tändes igen vid elva protesterade alla tre. Ingen ville sluta mitt i spelet, så de släckte taklampan och fortsatte i skenet från ljusen.
+
+- Hur mycket batteri hade Moas mobil kvar? | Åtta procent | Hälften | Fullt | Inget alls
+- Vilket kortspel ville lillasyster lära sig? | Vändåtta | Finns i sjön | Poker | Kille
+- Vad gjorde de när strömmen kom tillbaka? | Släckte taklampan och spelade vidare | Gick och lade sig | Satte på tv:n | Laddade mobilerna
+
+## Fyndet på vinden
+
+När farmor skulle flytta fick Hugo hjälpa till att tömma vinden. Längst in, bakom en trave gamla tidningar, stod en svart läderväska. I den låg en kamera med en film som aldrig hade framkallats. Farmor visste inte själv vad som fanns på den. Hugo letade upp en butik som fortfarande framkallade film, och efter en vecka fick han tjugofyra bilder. På de flesta syntes en ung kvinna som skrattade på en badbrygga. Det tog en stund innan Hugo förstod att det var farmor, ungefär lika gammal som han själv. När han visade bilderna blev hon tyst länge. Sedan sa hon: ”Det var sommaren då jag träffade farfar.”
+
+- Var stod väskan? | Bakom en trave tidningar | Under en säng | I en garderob | I källaren
+- Hur många bilder fick Hugo? | Tjugofyra | Tolv | Trettiosex | Åtta
+- Vem var kvinnan på bilderna? | Farmor | Farmors syster | En okänd turist | Hugos mamma
+
+## Tiometerstornet
+
+Hela sommaren hade Saga sagt att hon skulle hoppa från tian. Nu stod hon där uppe, och vattnet såg ut att ligga en kilometer bort. Kompisarna nere vid kanten ropade och vinkade. Hennes ben ville gå tillbaka mot trappan. Saga tänkte på vad simtränaren hade sagt: att rädsla inte betyder att man inte klarar något, bara att det är viktigt. Hon räknade till tre, och sedan till tre igen. Till slut tog hon ett steg ut i luften. Fallet tog bara drygt en sekund, men det kändes som en evighet. När hon kom upp till ytan skrattade hon så mycket att hon fick vatten i näsan.
+
+- Från hur högt hoppade Saga? | Tio meter | Fem meter | Tre meter | En meter
+- Vad hade simtränaren sagt om rädsla? | Att den betyder att något är viktigt | Att man alltid ska lyssna på den | Att den går över av sig själv | Att man ska blunda när man är rädd
+- Vad hände när Saga kom upp till ytan? | Hon skrattade och fick vatten i näsan | Hon började gråta | Hon simmade snabbt i land | Hon frös så att hon skakade
+
+## Den försvunna mobilen
+
+När Elins mobil försvann från omklädningsrummet tittade alla på Ruben. Det var han som hade gått in sist, och han hade dessutom kommit för sent till lektionen. Ruben blev röd i ansiktet och sa att han inte hade tagit den, men ingen verkade tro honom. På rasten gick Elin tillbaka och letade igen. Mobilen låg i hennes egen gympapåse, under ett par skor. Hon hade lagt den där själv utan att tänka på det. Efter lektionen gick Elin fram till Ruben och bad om ursäkt inför hela klassen. Det var svårare än hon hade trott, men efteråt kändes det mycket bättre.
+
+- Varför misstänkte alla Ruben? | Han hade gått in sist | Han hade en likadan mobil | Han skrattade åt Elin | Någon hade sett honom ta den
+- Var låg mobilen? | I Elins gympapåse | I Rubens väska | På toaletten | I lärarens skrivbord
+- Vad gjorde Elin efter lektionen? | Bad Ruben om ursäkt | Ringde sin mamma | Gick hem tidigt | Skällde på Ruben
+
+## Lagkaptenen
+
+När tränaren gjorde Nils till kapten i innebandylaget trodde han att det handlade om att vara bäst. Han skrek på dem som missade passningar och tog alla straffar själv. Laget förlorade tre matcher i rad, och stämningen blev allt sämre. En kväll efter träningen satte sig tränaren bredvid honom. ”En kapten gör inte allt själv”, sa hon. ”En kapten får andra att växa.” I nästa match lät Nils den yngsta i laget slå en straff. Hon missade, men laget vann ändå, och för första gången på länge skrattade alla i omklädningsrummet.
+
+- Vilken sport spelade laget? | Innebandy | Fotboll | Ishockey | Handboll
+- Vad sa tränaren att en kapten gör? | Får andra att växa | Gör flest mål | Bestämmer allt | Tar alla straffar
+- Vem fick slå straffen i nästa match? | Den yngsta i laget | Nils | Tränaren | Målvakten
